@@ -482,7 +482,7 @@ Foot Locker;1185732;12/12/2021;Northeast;Pennsylvania;Philadelphia;Women's Athle
 Foot Locker;1185732;13/12/2021;Northeast;Pennsylvania;Philadelphia;Men's Apparel;$ 55,00;125;$ 68.750;$ 20.625;30%;Outlet
 Foot Locker;1185732;14/12/2021;Northeast;Pennsylvania;Philadelphia;Women's Apparel;$ 60,00;225;$ 135.000;$ 33.750;25%;Outlet
 Foot Locker;1185732;15/12/2021;Northeast;Pennsylvania;Philadelphia;Men's Street Footwear;$ 60,00;400;$ 240.000;$ 120.000;50%;Outlet
-Foot Locker;1185732;16/12/2021;Northeast;Pennsylvania;Philadelphia;Men's Athletic Footwear;$ 50,00;225;$ 112.500;$ 33.750;30%;Outlet
+Foot Locker;1185732;16/12/2021;Northeast;Pennsylvania;Philadelphia;Men's Athletic Footwear;$ 50,00;;$ 112.500;$ 33.750;30%;Outlet
 Foot Locker;1185732;17/12/2021;Northeast;Pennsylvania;Philadelphia;Women's Street Footwear;$ 50,00;125;$ 62.500;$ 21.875;35%;Outlet
 Foot Locker;1185732;18/12/2021;Northeast;Pennsylvania;Philadelphia;Women's Athletic Footwear;$ 50,00;100;$ 50.000;$ 17.500;35%;Outlet
 Foot Locker;1185732;19/12/2021;Northeast;Pennsylvania;Philadelphia;Men's Apparel;$ 60,00;100;$ 60.000;$ 18.000;30%;Outlet
@@ -490,7 +490,7 @@ Foot Locker;1185732;20/12/2021;Northeast;Pennsylvania;Philadelphia;Women's Appar
 Foot Locker;1185732;21/12/2021;Northeast;Pennsylvania;Philadelphia;Men's Street Footwear;$ 70,00;375;$ 262.500;$ 144.375;55%;Outlet
 Foot Locker;1185732;22/12/2021;Northeast;Pennsylvania;Philadelphia;Men's Athletic Footwear;$ 60,00;200;$ 120.000;$ 42.000;35%;Outlet
 Foot Locker;1185732;23/12/2021;Northeast;Pennsylvania;Philadelphia;Women's Street Footwear;$ 60,00;195;$ 117.000;$ 46.800;40%;Outlet
-Foot Locker;1185732;24/12/2021;Northeast;Pennsylvania;Philadelphia;Women's Athletic Footwear;$ 60,00;175;$ 105.000;$ 42.000;40%;Outlet
+Foot Locker;1185732;24/12/2021;Northeast;Pennsylvania;Philadelphia;Women's Athletic Footwear;$ 60,00;;$ 105.000;$ 42.000;40%;Outlet
 Foot Locker;1185732;25/12/2021;Northeast;Pennsylvania;Philadelphia;Men's Apparel;$ 70,00;150;$ 105.000;$ 36.750;35%;Outlet
 Foot Locker;1185732;26/12/2021;Northeast;Pennsylvania;Philadelphia;Women's Apparel;$ 75,00;250;$ 187.500;$ 56.250;30%;Outlet
 Foot Locker;1185732;27/12/2021;Northeast;Pennsylvania;Philadelphia;Men's Street Footwear;$ 70,00;475;$ 332.500;$ 182.875;55%;Outlet
@@ -574,7 +574,7 @@ West Gear;1128299;14/3/2020;West;Nevada;Las Vegas;Women's Apparel;$ 75,00;500;$ 
 West Gear;1128299;15/3/2020;West;Nevada;Las Vegas;Men's Street Footwear;$ 30,00;425;$ 127.500;$ 44.625;35%;In-store
 West Gear;1128299;16/3/2020;West;Nevada;Las Vegas;Men's Athletic Footwear;$ 40,00;425;$ 170.000;$ 34.000;20%;In-store
 West Gear;1128299;17/3/2020;West;Nevada;Las Vegas;Women's Street Footwear;$ 40,00;425;$ 170.000;$ 59.500;35%;In-store
-West Gear;1128299;18/3/2020;West;Nevada;Las Vegas;Women's Athletic Footwear;$ 40,00;275;$ 110.000;$ 33.000;30%;In-store
+West Gear;1128299;18/3/2020;West;Nevada;Las Vegas;Women's Athletic Footwear;$ 40,00;;$ 110.000;$ 33.000;30%;In-store
 West Gear;1128299;19/3/2020;West;Colorado;Denver;Men's Apparel;$ 45,00;225;$ 101.250;$ 50.625;50%;In-store
 West Gear;1128299;20/3/2020;West;Colorado;Denver;Women's Apparel;$ 40,00;475;$ 190.000;$ 28.500;15%;In-store
 West Gear;1128299;21/3/2020;West;Colorado;Denver;Men's Street Footwear;$ 30,00;525;$ 157.500;$ 55.125;35%;In-store
@@ -669,7 +669,7 @@ West Gear;1128299;17/6/2020;West;Washington;Seattle;Men's Apparel;$ 65,00;200;$ 
 West Gear;1128299;18/6/2020;West;Washington;Seattle;Women's Apparel;$ 80,00;350;$ 280.000;$ 56.000;20%;In-store
 West Gear;1128299;19/6/2020;West;Washington;Seattle;Men's Street Footwear;$ 60,00;550;$ 330.000;$ 99.000;30%;In-store
 West Gear;1128299;20/6/2020;West;Washington;Seattle;Men's Athletic Footwear;$ 65,00;400;$ 260.000;$ 65.000;25%;In-store
-West Gear;1128299;21/6/2020;West;Washington;Seattle;Women's Street Footwear;$ 65,00;400;$ 260.000;$ 65.000;25%;In-store
+West Gear;1128299;21/6/2020;West;Washington;Seattle;Women's Street Footwear;$ 65,00;;$ 260.000;$ 65.000;25%;In-store
 West Gear;1128299;22/6/2020;West;Washington;Seattle;Women's Athletic Footwear;$ 60,00;300;$ 180.000;$ 54.000;30%;In-store
 West Gear;1128299;23/6/2020;West;Washington;Seattle;Men's Apparel;$ 65,00;200;$ 130.000;$ 32.500;25%;In-store
 West Gear;1128299;24/6/2020;West;Washington;Seattle;Women's Apparel;$ 80,00;500;$ 400.000;$ 80.000;20%;In-store
@@ -718,7 +718,7 @@ West Gear;1128299;5/8/2020;West;Washington;Seattle;Women's Apparel;$ 95,00;575;$
 Foot Locker;1185732;6/8/2020;West;Washington;Seattle;Men's Street Footwear;$ 45,00;1.050;$ 472.500;$ 212.625;45%;In-store
 Foot Locker;1185732;7/8/2020;West;Washington;Seattle;Men's Athletic Footwear;$ 45,00;850;$ 382.500;$ 133.875;35%;In-store
 Foot Locker;1185732;8/8/2020;West;Washington;Seattle;Women's Street Footwear;$ 35,00;850;$ 297.500;$ 74.375;25%;In-store
-Foot Locker;1185732;9/8/2020;West;Washington;Seattle;Women's Athletic Footwear;$ 40,00;700;$ 280.000;$ 84.000;30%;In-store
+Foot Locker;1185732;9/8/2020;West;Washington;Seattle;Women's Athletic Footwear;$ 40,00;;$ 280.000;$ 84.000;30%;In-store
 Foot Locker;1185732;10/8/2020;Southeast;Florida;Miami;Men's Apparel;$ 55,00;750;$ 412.500;$ 144.375;35%;In-store
 Foot Locker;1185732;11/8/2020;Southeast;Florida;Miami;Women's Apparel;$ 45,00;850;$ 382.500;$ 191.250;50%;In-store
 Foot Locker;1185732;12/8/2020;Southeast;Florida;Miami;Men's Street Footwear;$ 45,00;1.100;$ 495.000;$ 222.750;45%;In-store
@@ -844,7 +844,7 @@ Foot Locker;1185732;9/12/2020;Midwest;Minnesota;Minneapolis;Women's Apparel;$ 40
 Foot Locker;1185732;10/12/2020;Midwest;Minnesota;Minneapolis;Men's Street Footwear;$ 45,00;375;$ 168.750;$ 59.063;35%;Outlet
 Foot Locker;1185732;11/12/2020;Midwest;Minnesota;Minneapolis;Men's Athletic Footwear;$ 35,00;200;$ 70.000;$ 21.000;30%;Outlet
 Foot Locker;1185732;12/12/2020;Midwest;Minnesota;Minneapolis;Women's Street Footwear;$ 35,00;100;$ 35.000;$ 10.500;30%;Outlet
-Foot Locker;1185732;13/12/2020;Midwest;Minnesota;Minneapolis;Women's Athletic Footwear;$ 35,00;75;$ 26.250;$ 9.188;35%;Outlet
+Foot Locker;1185732;13/12/2020;Midwest;Minnesota;Minneapolis;Women's Athletic Footwear;$ 35,00;;$ 26.250;$ 9.188;35%;Outlet
 Foot Locker;1185732;14/12/2020;Midwest;Minnesota;Minneapolis;Men's Apparel;$ 45,00;75;$ 33.750;$ 10.125;30%;Outlet
 Foot Locker;1185732;15/12/2020;Midwest;Minnesota;Minneapolis;Women's Apparel;$ 50,00;200;$ 100.000;$ 45.000;45%;Outlet
 Foot Locker;1185732;16/12/2020;Midwest;Minnesota;Minneapolis;Men's Street Footwear;$ 50,00;350;$ 175.000;$ 61.250;35%;Outlet
@@ -985,7 +985,7 @@ Sports Direct;1197831;29/4/2021;South;Tennessee;Knoxville;Women's Street Footwea
 Sports Direct;1197831;30/4/2021;South;Tennessee;Knoxville;Women's Athletic Footwear;$ 55,00;400;$ 220.000;$ 121.000;55%;Outlet
 Sports Direct;1197831;1/5/2021;South;Tennessee;Knoxville;Men's Apparel;$ 50,00;400;$ 200.000;$ 80.000;40%;Outlet
 Sports Direct;1197831;2/5/2021;South;Tennessee;Knoxville;Women's Apparel;$ 45,00;625;$ 281.250;$ 168.750;60%;Outlet
-Sports Direct;1197831;3/5/2021;South;Tennessee;Knoxville;Men's Street Footwear;$ 35,00;575;$ 201.250;$ 90.563;45%;Outlet
+Sports Direct;1197831;3/5/2021;South;Tennessee;Knoxville;Men's Street Footwear;$ 35,00;;$ 201.250;$ 90.563;45%;Outlet
 Sports Direct;1197831;4/5/2021;South;Tennessee;Knoxville;Men's Athletic Footwear;$ 35,00;575;$ 201.250;$ 90.563;45%;Outlet
 Sports Direct;1197831;5/5/2021;South;Tennessee;Knoxville;Women's Street Footwear;$ 40,00;525;$ 210.000;$ 94.500;45%;Outlet
 Sports Direct;1197831;6/5/2021;South;Tennessee;Knoxville;Women's Athletic Footwear;$ 40,00;375;$ 150.000;$ 82.500;55%;Outlet
@@ -1033,7 +1033,7 @@ Foot Locker;1185732;16/6/2021;Midwest;Nebraska;Omaha;Women's Street Footwear;$ 3
 Foot Locker;1185732;17/6/2021;Midwest;Nebraska;Omaha;Women's Athletic Footwear;$ 35,00;25;$ 8.750;$ 3.500;40%;Outlet
 Foot Locker;1185732;18/6/2021;Midwest;Nebraska;Omaha;Men's Apparel;$ 50,00;50;$ 25.000;$ 8.750;35%;Outlet
 Foot Locker;1185732;19/6/2021;Midwest;Nebraska;Omaha;Women's Apparel;$ 55,00;150;$ 82.500;$ 41.250;50%;Outlet
-Foot Locker;1185732;20/6/2021;Midwest;Nebraska;Omaha;Men's Street Footwear;$ 40,00;400;$ 160.000;$ 64.000;40%;Outlet
+Foot Locker;1185732;20/6/2021;Midwest;Nebraska;Omaha;Men's Street Footwear;$ 40,00;;$ 160.000;$ 64.000;40%;Outlet
 Foot Locker;1185732;21/6/2021;Midwest;Nebraska;Omaha;Men's Athletic Footwear;$ 35,00;150;$ 52.500;$ 18.375;35%;Outlet
 Foot Locker;1185732;22/6/2021;Midwest;Nebraska;Omaha;Women's Street Footwear;$ 30,00;175;$ 52.500;$ 18.375;35%;Outlet
 Foot Locker;1185732;23/6/2021;Midwest;Nebraska;Omaha;Women's Athletic Footwear;$ 30,00;150;$ 45.000;$ 18.000;40%;Outlet
@@ -1138,7 +1138,7 @@ Sports Direct;1197831;29/9/2021;South;Alabama;Birmingham;Women's Apparel;$ 40,00
 Sports Direct;1197831;30/9/2021;South;Alabama;Birmingham;Men's Street Footwear;$ 20,00;625;$ 125.000;$ 62.500;50%;Outlet
 Sports Direct;1197831;1/10/2021;South;Alabama;Birmingham;Men's Athletic Footwear;$ 20,00;625;$ 125.000;$ 62.500;50%;Outlet
 Sports Direct;1197831;2/10/2021;South;Alabama;Birmingham;Women's Street Footwear;$ 45,00;575;$ 258.750;$ 129.375;50%;Outlet
-Sports Direct;1197831;3/10/2021;South;Alabama;Birmingham;Women's Athletic Footwear;$ 45,00;450;$ 202.500;$ 121.500;60%;Outlet
+Sports Direct;1197831;3/10/2021;South;Alabama;Birmingham;Women's Athletic Footwear;$ 45,00;;$ 202.500;$ 121.500;60%;Outlet
 Sports Direct;1197831;4/10/2021;South;Alabama;Birmingham;Men's Apparel;$ 50,00;425;$ 212.500;$ 95.625;45%;Outlet
 Sports Direct;1197831;5/10/2021;South;Alabama;Birmingham;Women's Apparel;$ 60,00;625;$ 375.000;$ 243.750;65%;Outlet
 Sports Direct;1197831;6/10/2021;South;Alabama;Birmingham;Men's Street Footwear;$ 60,00;775;$ 465.000;$ 232.500;50%;Outlet
@@ -1188,7 +1188,7 @@ Amazon;1185732;18/11/2021;Northeast;Maine;Portland;Men's Athletic Footwear;$ 50,
 Amazon;1185732;19/11/2021;Northeast;Maine;Portland;Women's Street Footwear;$ 45,00;225;$ 101.250;$ 40.500;40%;Outlet
 Amazon;1185732;20/11/2021;Northeast;Maine;Portland;Women's Athletic Footwear;$ 45,00;175;$ 78.750;$ 23.625;30%;Outlet
 Amazon;1185732;21/11/2021;Northeast;Maine;Portland;Men's Apparel;$ 55,00;200;$ 110.000;$ 27.500;25%;Outlet
-Amazon;1185732;20/12/2021;Northeast;Maine;Portland;Women's Apparel;$ 60,00;375;$ 225.000;$ 90.000;40%;Outlet
+Amazon;1185732;20/12/2021;Northeast;Maine;Portland;Women's Apparel;$ 60,00;;$ 225.000;$ 90.000;40%;Outlet
 Amazon;1185732;21/12/2021;Northeast;Maine;Portland;Men's Street Footwear;$ 55,00;525;$ 288.750;$ 101.063;35%;Outlet
 Amazon;1185732;22/12/2021;Northeast;Maine;Portland;Men's Athletic Footwear;$ 50,00;300;$ 150.000;$ 52.500;35%;Outlet
 Amazon;1185732;23/12/2021;Northeast;Maine;Portland;Women's Street Footwear;$ 45,00;225;$ 101.250;$ 40.500;40%;Outlet
@@ -1235,7 +1235,7 @@ Amazon;1185732;20/3/2021;West;Alaska;Anchorage;Men's Athletic Footwear;$ 55,00;2
 Amazon;1185732;20/3/2021;West;Alaska;Anchorage;Women's Street Footwear;$ 45,00;275;$ 123.750;$ 30.938;25%;Outlet
 Amazon;1185732;20/3/2021;West;Alaska;Anchorage;Women's Athletic Footwear;$ 50,00;125;$ 62.500;$ 15.625;25%;Outlet
 Amazon;1185732;20/3/2021;West;Alaska;Anchorage;Men's Apparel;$ 65,00;175;$ 113.750;$ 28.438;25%;Outlet
-Amazon;1185732;20/3/2021;West;Alaska;Anchorage;Women's Apparel;$ 55,00;275;$ 151.250;$ 45.375;30%;Outlet
+Amazon;1185732;20/3/2021;West;Alaska;Anchorage;Women's Apparel;$ 55,00;;$ 151.250;$ 45.375;30%;Outlet
 Amazon;1185732;21/4/2021;West;Alaska;Anchorage;Men's Street Footwear;$ 55,00;525;$ 288.750;$ 101.063;35%;Outlet
 Amazon;1185732;21/4/2021;West;Alaska;Anchorage;Men's Athletic Footwear;$ 55,00;225;$ 123.750;$ 43.313;35%;Outlet
 Amazon;1185732;21/4/2021;West;Alaska;Anchorage;Women's Street Footwear;$ 45,00;225;$ 101.250;$ 25.313;25%;Outlet
@@ -1284,7 +1284,7 @@ Amazon;1185732;21/11/2021;West;Alaska;Anchorage;Women's Street Footwear;$ 65,00;
 Amazon;1185732;21/11/2021;West;Alaska;Anchorage;Women's Athletic Footwear;$ 65,00;300;$ 195.000;$ 48.750;25%;Outlet
 Amazon;1185732;21/11/2021;West;Alaska;Anchorage;Men's Apparel;$ 75,00;275;$ 206.250;$ 51.563;25%;Outlet
 Amazon;1185732;21/11/2021;West;Alaska;Anchorage;Women's Apparel;$ 80,00;375;$ 300.000;$ 90.000;30%;Outlet
-Amazon;1185732;20/12/2021;West;Alaska;Anchorage;Men's Street Footwear;$ 75,00;600;$ 450.000;$ 157.500;35%;Outlet
+Amazon;1185732;20/12/2021;West;Alaska;Anchorage;Men's Street Footwear;$ 75,00;;$ 450.000;$ 157.500;35%;Outlet
 Amazon;1185732;20/12/2021;West;Alaska;Anchorage;Men's Athletic Footwear;$ 65,00;400;$ 260.000;$ 91.000;35%;Outlet
 Foot Locker;1128299;10/1/2021;West;Alaska;Anchorage;Men's Street Footwear;$ 35,00;375;$ 131.250;$ 32.813;25%;Outlet
 Foot Locker;1128299;10/1/2021;West;Alaska;Anchorage;Men's Athletic Footwear;$ 45,00;375;$ 168.750;$ 33.750;20%;Outlet
@@ -1331,7 +1331,7 @@ Foot Locker;1128299;9/7/2021;West;Hawaii;Honolulu;Women's Apparel;$ 100,00;550;$
 Foot Locker;1128299;10/8/2021;West;Hawaii;Honolulu;Men's Street Footwear;$ 85,00;750;$ 637.500;$ 159.375;25%;Outlet
 Foot Locker;1128299;10/8/2021;West;Hawaii;Honolulu;Men's Athletic Footwear;$ 75,00;725;$ 543.750;$ 108.750;20%;Outlet
 Foot Locker;1128299;10/8/2021;West;Hawaii;Honolulu;Women's Street Footwear;$ 70,00;600;$ 420.000;$ 105.000;25%;Outlet
-Foot Locker;1128299;10/8/2021;West;Hawaii;Honolulu;Women's Athletic Footwear;$ 70,00;525;$ 367.500;$ 91.875;25%;Outlet
+Foot Locker;1128299;10/8/2021;West;Hawaii;Honolulu;Women's Athletic Footwear;$ 70,00;;$ 367.500;$ 91.875;25%;Outlet
 Walmart;1128299;10/8/2021;West;Hawaii;Honolulu;Men's Apparel;$ 70,00;525;$ 367.500;$ 55.125;15%;Outlet
 Walmart;1128299;10/8/2021;West;Hawaii;Honolulu;Women's Apparel;$ 75,00;350;$ 262.500;$ 105.000;40%;Outlet
 Walmart;1128299;11/9/2021;West;Hawaii;Honolulu;Men's Street Footwear;$ 65,00;550;$ 357.500;$ 89.375;25%;Outlet
@@ -1385,7 +1385,7 @@ Walmart;1128299;17/4/2021;Southeast;Florida;Orlando;Women's Apparel;$ 75,00;375;
 Walmart;1128299;18/5/2021;Southeast;Florida;Orlando;Men's Street Footwear;$ 60,00;575;$ 345.000;$ 103.500;30%;Outlet
 Walmart;1128299;18/5/2021;Southeast;Florida;Orlando;Men's Athletic Footwear;$ 65,00;425;$ 276.250;$ 69.063;25%;Outlet
 Walmart;1128299;18/5/2021;Southeast;Florida;Orlando;Women's Street Footwear;$ 65,00;425;$ 276.250;$ 82.875;30%;Outlet
-Walmart;1128299;18/5/2021;Southeast;Florida;Orlando;Women's Athletic Footwear;$ 60,00;325;$ 195.000;$ 58.500;30%;Outlet
+Walmart;1128299;18/5/2021;Southeast;Florida;Orlando;Women's Athletic Footwear;$ 60,00;;$ 195.000;$ 58.500;30%;Outlet
 Walmart;1128299;18/5/2021;Southeast;Florida;Orlando;Men's Apparel;$ 55,00;225;$ 123.750;$ 24.750;20%;Outlet
 Walmart;1128299;18/5/2021;Southeast;Florida;Orlando;Women's Apparel;$ 70,00;575;$ 402.500;$ 181.125;45%;Outlet
 Walmart;1128299;17/6/2021;Southeast;Florida;Orlando;Men's Street Footwear;$ 65,00;825;$ 536.250;$ 160.875;30%;Outlet
@@ -1430,7 +1430,7 @@ West Gear;1128299;16/12/2021;Southeast;Florida;Orlando;Women's Street Footwear;$
 West Gear;1128299;16/12/2021;Southeast;Florida;Orlando;Women's Athletic Footwear;$ 80,00;600;$ 480.000;$ 144.000;30%;In-store
 West Gear;1128299;16/12/2021;Southeast;Florida;Orlando;Men's Apparel;$ 90,00;525;$ 472.500;$ 94.500;20%;In-store
 West Gear;1128299;16/12/2021;Southeast;Florida;Orlando;Women's Apparel;$ 95,00;625;$ 593.750;$ 267.188;45%;In-store
-West Gear;1185732;12/1/2021;Southeast;Florida;Orlando;Men's Street Footwear;$ 45,00;850;$ 382.500;$ 172.125;45%;In-store
+West Gear;1185732;12/1/2021;Southeast;Florida;Orlando;Men's Street Footwear;$ 45,00;;$ 382.500;$ 172.125;45%;In-store
 West Gear;1185732;12/1/2021;Southeast;Florida;Orlando;Men's Athletic Footwear;$ 45,00;650;$ 292.500;$ 102.375;35%;In-store
 West Gear;1185732;12/1/2021;Southeast;Florida;Orlando;Women's Street Footwear;$ 35,00;650;$ 227.500;$ 56.875;25%;In-store
 West Gear;1185732;12/1/2021;Southeast;Florida;Orlando;Women's Athletic Footwear;$ 40,00;500;$ 200.000;$ 60.000;30%;In-store
@@ -1485,7 +1485,7 @@ West Gear;1185732;8/9/2021;Northeast;New York;Albany;Women's Athletic Footwear;$
 West Gear;1185732;8/9/2021;Northeast;New York;Albany;Men's Apparel;$ 55,00;525;$ 288.750;$ 101.063;35%;In-store
 West Gear;1185732;8/9/2021;Northeast;New York;Albany;Women's Apparel;$ 60,00;625;$ 375.000;$ 187.500;50%;In-store
 West Gear;1185732;10/10/2021;Northeast;New York;Albany;Men's Street Footwear;$ 60,00;800;$ 480.000;$ 216.000;45%;In-store
-West Gear;1185732;10/10/2021;Northeast;New York;Albany;Men's Athletic Footwear;$ 50,00;625;$ 312.500;$ 109.375;35%;In-store
+West Gear;1185732;10/10/2021;Northeast;New York;Albany;Men's Athletic Footwear;$ 50,00;;$ 312.500;$ 109.375;35%;In-store
 West Gear;1185732;10/10/2021;Northeast;New York;Albany;Women's Street Footwear;$ 50,00;525;$ 262.500;$ 65.625;25%;In-store
 West Gear;1185732;10/10/2021;Northeast;New York;Albany;Women's Athletic Footwear;$ 50,00;500;$ 250.000;$ 75.000;30%;In-store
 West Gear;1185732;10/10/2021;Northeast;New York;Albany;Men's Apparel;$ 60,00;500;$ 300.000;$ 105.000;35%;In-store
@@ -1535,12 +1535,12 @@ Kohl's;1185732;10/5/2021;West;Wyoming;Cheyenne;Women's Apparel;$ 55,00;600;$ 330
 Kohl's;1185732;12/6/2021;West;Wyoming;Cheyenne;Men's Street Footwear;$ 50,00;850;$ 425.000;$ 212.500;50%;In-store
 Kohl's;1185732;12/6/2021;West;Wyoming;Cheyenne;Men's Athletic Footwear;$ 45,00;600;$ 270.000;$ 81.000;30%;In-store
 Kohl's;1185732;12/6/2021;West;Wyoming;Cheyenne;Women's Street Footwear;$ 40,00;525;$ 210.000;$ 73.500;35%;In-store
-Kohl's;1185732;12/6/2021;West;Wyoming;Cheyenne;Women's Athletic Footwear;$ 40,00;500;$ 200.000;$ 70.000;35%;In-store
+Kohl's;1185732;12/6/2021;West;Wyoming;Cheyenne;Women's Athletic Footwear;$ 40,00;;$ 200.000;$ 70.000;35%;In-store
 Kohl's;1185732;12/6/2021;West;Wyoming;Cheyenne;Men's Apparel;$ 50,00;500;$ 250.000;$ 75.000;30%;In-store
 Kohl's;1185732;12/6/2021;West;Wyoming;Cheyenne;Women's Apparel;$ 55,00;650;$ 357.500;$ 89.375;25%;In-store
-Kohl's;1185732;10/7/2021;West;Wyoming;Cheyenne;Men's Street Footwear;$ 50,00;875;$ 437.500;$ 218.750;50%;In-store
+Kohl's;1185732;10/7/2021;West;Wyoming;Cheyenne;Men's Street Footwear;$ 50,00;;$ 437.500;$ 218.750;50%;In-store
 Kohl's;1185732;10/7/2021;West;Wyoming;Cheyenne;Men's Athletic Footwear;$ 45,00;625;$ 281.250;$ 84.375;30%;In-store
-Kohl's;1185732;10/7/2021;West;Wyoming;Cheyenne;Women's Street Footwear;$ 40,00;550;$ 220.000;$ 77.000;35%;In-store
+Kohl's;1185732;10/7/2021;West;Wyoming;Cheyenne;Women's Street Footwear;$ 40,00;;$ 220.000;$ 77.000;35%;In-store
 Kohl's;1185732;10/7/2021;West;Wyoming;Cheyenne;Women's Athletic Footwear;$ 40,00;500;$ 200.000;$ 70.000;35%;In-store
 Kohl's;1185732;10/7/2021;West;Wyoming;Cheyenne;Men's Apparel;$ 50,00;525;$ 262.500;$ 78.750;30%;In-store
 Kohl's;1185732;10/7/2021;West;Wyoming;Cheyenne;Women's Apparel;$ 55,00;700;$ 385.000;$ 96.250;25%;In-store
@@ -1589,13 +1589,13 @@ Foot Locker;1128299;24/2/2021;Southeast;Virginia;Richmond;Women's Apparel;$ 40,0
 Foot Locker;1128299;23/3/2021;Southeast;Virginia;Richmond;Men's Street Footwear;$ 40,00;475;$ 190.000;$ 66.500;35%;In-store
 Foot Locker;1128299;23/3/2021;Southeast;Virginia;Richmond;Men's Athletic Footwear;$ 50,00;325;$ 162.500;$ 56.875;35%;In-store
 Foot Locker;1128299;23/3/2021;Southeast;Virginia;Richmond;Women's Street Footwear;$ 55,00;350;$ 192.500;$ 67.375;35%;In-store
-Foot Locker;1128299;23/3/2021;Southeast;Virginia;Richmond;Women's Athletic Footwear;$ 50,00;250;$ 125.000;$ 43.750;35%;In-store
+Foot Locker;1128299;23/3/2021;Southeast;Virginia;Richmond;Women's Athletic Footwear;$ 50,00;;$ 125.000;$ 43.750;35%;In-store
 Foot Locker;1128299;23/3/2021;Southeast;Virginia;Richmond;Men's Apparel;$ 55,00;100;$ 55.000;$ 22.000;40%;In-store
 Foot Locker;1128299;23/3/2021;Southeast;Virginia;Richmond;Women's Apparel;$ 50,00;300;$ 150.000;$ 45.000;30%;In-store
 Foot Locker;1128299;24/4/2021;Southeast;Virginia;Richmond;Men's Street Footwear;$ 55,00;475;$ 261.250;$ 91.438;35%;In-store
-Foot Locker;1128299;24/4/2021;Southeast;Virginia;Richmond;Men's Athletic Footwear;$ 60,00;275;$ 165.000;$ 57.750;35%;In-store
+Foot Locker;1128299;24/4/2021;Southeast;Virginia;Richmond;Men's Athletic Footwear;$ 60,00;;$ 165.000;$ 57.750;35%;In-store
 Foot Locker;1128299;24/4/2021;Southeast;Virginia;Richmond;Women's Street Footwear;$ 60,00;325;$ 195.000;$ 68.250;35%;In-store
-Foot Locker;1128299;24/4/2021;Southeast;Virginia;Richmond;Women's Athletic Footwear;$ 45,00;225;$ 101.250;$ 35.438;35%;In-store
+Foot Locker;1128299;24/4/2021;Southeast;Virginia;Richmond;Women's Athletic Footwear;$ 45,00;;$ 101.250;$ 35.438;35%;In-store
 Foot Locker;1128299;24/4/2021;Southeast;Virginia;Richmond;Men's Apparel;$ 50,00;125;$ 62.500;$ 25.000;40%;In-store
 Foot Locker;1128299;24/4/2021;Southeast;Virginia;Richmond;Women's Apparel;$ 65,00;300;$ 195.000;$ 58.500;30%;In-store
 Foot Locker;1128299;25/5/2021;Southeast;Virginia;Richmond;Men's Street Footwear;$ 50,00;500;$ 250.000;$ 87.500;35%;In-store
@@ -1641,7 +1641,7 @@ Foot Locker;1128299;24/11/2021;Southeast;Virginia;Richmond;Women's Athletic Foot
 Foot Locker;1128299;24/11/2021;Southeast;Virginia;Richmond;Men's Apparel;$ 75,00;425;$ 318.750;$ 127.500;40%;In-store
 Foot Locker;1128299;24/11/2021;Southeast;Virginia;Richmond;Women's Apparel;$ 80,00;550;$ 440.000;$ 132.000;30%;In-store
 Foot Locker;1128299;23/12/2021;Southeast;Virginia;Richmond;Men's Street Footwear;$ 65,00;750;$ 487.500;$ 170.625;35%;In-store
-Foot Locker;1128299;23/12/2021;Southeast;Virginia;Richmond;Men's Athletic Footwear;$ 75,00;750;$ 562.500;$ 196.875;35%;In-store
+Foot Locker;1128299;23/12/2021;Southeast;Virginia;Richmond;Men's Athletic Footwear;$ 75,00;;$ 562.500;$ 196.875;35%;In-store
 Sports Direct;1128299;23/12/2021;Southeast;Virginia;Richmond;Women's Street Footwear;$ 70,00;550;$ 385.000;$ 134.750;35%;In-store
 Sports Direct;1128299;23/12/2021;Southeast;Virginia;Richmond;Women's Athletic Footwear;$ 70,00;550;$ 385.000;$ 134.750;35%;In-store
 Sports Direct;1128299;23/12/2021;Southeast;Virginia;Richmond;Men's Apparel;$ 80,00;475;$ 380.000;$ 152.000;40%;In-store
@@ -1685,7 +1685,7 @@ Sports Direct;1185732;17/6/2021;Midwest;Michigan;Detroit;Women's Apparel;$ 65,00
 Sports Direct;1185732;15/7/2021;Midwest;Michigan;Detroit;Men's Street Footwear;$ 60,00;900;$ 540.000;$ 270.000;50%;In-store
 Sports Direct;1185732;15/7/2021;Midwest;Michigan;Detroit;Men's Athletic Footwear;$ 55,00;650;$ 357.500;$ 143.000;40%;In-store
 Sports Direct;1185732;15/7/2021;Midwest;Michigan;Detroit;Women's Street Footwear;$ 50,00;575;$ 287.500;$ 86.250;30%;In-store
-Sports Direct;1185732;15/7/2021;Midwest;Michigan;Detroit;Women's Athletic Footwear;$ 50,00;525;$ 262.500;$ 91.875;35%;In-store
+Sports Direct;1185732;15/7/2021;Midwest;Michigan;Detroit;Women's Athletic Footwear;$ 50,00;;$ 262.500;$ 91.875;35%;In-store
 Sports Direct;1185732;15/7/2021;Midwest;Michigan;Detroit;Men's Apparel;$ 60,00;550;$ 330.000;$ 132.000;40%;In-store
 Sports Direct;1185732;15/7/2021;Midwest;Michigan;Detroit;Women's Apparel;$ 65,00;725;$ 471.250;$ 259.188;55%;In-store
 Sports Direct;1185732;16/8/2021;Midwest;Michigan;Detroit;Men's Street Footwear;$ 60,00;875;$ 525.000;$ 262.500;50%;In-store
@@ -1730,7 +1730,7 @@ Foot Locker;1185732;18/2/2021;Midwest;Michigan;Detroit;Women's Street Footwear;$
 Foot Locker;1185732;18/2/2021;Midwest;Missouri;St. Louis;Women's Athletic Footwear;$ 25,00;250;$ 62.500;$ 25.000;40%;In-store
 Foot Locker;1185732;18/2/2021;Midwest;Missouri;St. Louis;Men's Apparel;$ 40,00;325;$ 130.000;$ 45.500;35%;In-store
 Foot Locker;1185732;18/2/2021;Midwest;Missouri;St. Louis;Women's Apparel;$ 30,00;400;$ 120.000;$ 60.000;50%;In-store
-Foot Locker;1185732;17/3/2021;Midwest;Missouri;St. Louis;Men's Street Footwear;$ 35,00;620;$ 217.000;$ 86.800;40%;In-store
+Foot Locker;1185732;17/3/2021;Midwest;Missouri;St. Louis;Men's Street Footwear;$ 35,00;;$ 217.000;$ 86.800;40%;In-store
 Foot Locker;1185732;17/3/2021;Midwest;Missouri;St. Louis;Men's Athletic Footwear;$ 35,00;300;$ 105.000;$ 36.750;35%;In-store
 Foot Locker;1185732;17/3/2021;Midwest;Missouri;St. Louis;Women's Street Footwear;$ 25,00;350;$ 87.500;$ 30.625;35%;In-store
 Foot Locker;1185732;17/3/2021;Midwest;Missouri;St. Louis;Women's Athletic Footwear;$ 30,00;200;$ 60.000;$ 24.000;40%;In-store
@@ -1770,7 +1770,7 @@ Foot Locker;1185732;19/9/2021;Midwest;Missouri;St. Louis;Men's Street Footwear;$
 Foot Locker;1185732;19/9/2021;Midwest;Missouri;St. Louis;Men's Athletic Footwear;$ 30,00;400;$ 120.000;$ 42.000;35%;In-store
 Foot Locker;1185732;19/9/2021;Midwest;Missouri;St. Louis;Women's Street Footwear;$ 15,00;300;$ 45.000;$ 15.750;35%;In-store
 Foot Locker;1185732;19/9/2021;Midwest;Missouri;St. Louis;Women's Athletic Footwear;$ 15,00;275;$ 41.250;$ 16.500;40%;In-store
-Foot Locker;1185732;19/9/2021;Midwest;Missouri;St. Louis;Men's Apparel;$ 25,00;275;$ 68.750;$ 24.063;35%;In-store
+Foot Locker;1185732;19/9/2021;Midwest;Missouri;St. Louis;Men's Apparel;$ 25,00;;$ 68.750;$ 24.063;35%;In-store
 Foot Locker;1185732;19/9/2021;Midwest;Missouri;St. Louis;Women's Apparel;$ 30,00;350;$ 105.000;$ 52.500;50%;In-store
 Foot Locker;1185732;18/10/2021;Midwest;Missouri;St. Louis;Men's Street Footwear;$ 35,00;525;$ 183.750;$ 73.500;40%;In-store
 Foot Locker;1185732;18/10/2021;Midwest;Missouri;St. Louis;Men's Athletic Footwear;$ 25,00;350;$ 87.500;$ 30.625;35%;In-store
@@ -1809,7 +1809,7 @@ West Gear;1185732;10/3/2021;West;Utah;Salt Lake City;Women's Athletic Footwear;$
 West Gear;1185732;10/3/2021;West;Utah;Salt Lake City;Men's Apparel;$ 40,00;300;$ 120.000;$ 42.000;35%;In-store
 West Gear;1185732;10/3/2021;West;Utah;Salt Lake City;Women's Apparel;$ 30,00;400;$ 120.000;$ 60.000;50%;In-store
 West Gear;1185732;11/4/2021;West;Utah;Salt Lake City;Men's Street Footwear;$ 30,00;625;$ 187.500;$ 75.000;40%;In-store
-West Gear;1185732;11/4/2021;West;Utah;Salt Lake City;Men's Athletic Footwear;$ 25,00;325;$ 81.250;$ 28.438;35%;In-store
+West Gear;1185732;11/4/2021;West;Utah;Salt Lake City;Men's Athletic Footwear;$ 25,00;;$ 81.250;$ 28.438;35%;In-store
 West Gear;1185732;11/4/2021;West;Utah;Salt Lake City;Women's Street Footwear;$ 15,00;325;$ 48.750;$ 17.063;35%;In-store
 West Gear;1185732;11/4/2021;West;Utah;Salt Lake City;Women's Athletic Footwear;$ 20,00;250;$ 50.000;$ 20.000;40%;In-store
 West Gear;1185732;11/4/2021;West;Utah;Salt Lake City;Men's Apparel;$ 35,00;275;$ 96.250;$ 33.688;35%;In-store
@@ -1852,7 +1852,7 @@ West Gear;1185732;11/10/2021;West;Utah;Salt Lake City;Men's Apparel;$ 30,00;275;
 West Gear;1185732;11/10/2021;West;Utah;Salt Lake City;Women's Apparel;$ 35,00;400;$ 140.000;$ 70.000;50%;In-store
 West Gear;1185732;11/11/2021;West;Utah;Salt Lake City;Men's Street Footwear;$ 30,00;550;$ 165.000;$ 66.000;40%;In-store
 West Gear;1185732;11/11/2021;West;Utah;Salt Lake City;Men's Athletic Footwear;$ 20,00;400;$ 80.000;$ 28.000;35%;In-store
-West Gear;1185732;11/11/2021;West;Utah;Salt Lake City;Women's Street Footwear;$ 20,00;345;$ 69.000;$ 24.150;35%;In-store
+West Gear;1185732;11/11/2021;West;Utah;Salt Lake City;Women's Street Footwear;$ 20,00;;$ 69.000;$ 24.150;35%;In-store
 West Gear;1185732;11/11/2021;West;Utah;Salt Lake City;Women's Athletic Footwear;$ 20,00;375;$ 75.000;$ 30.000;40%;In-store
 West Gear;1185732;11/11/2021;West;Utah;Salt Lake City;Men's Apparel;$ 40,00;350;$ 140.000;$ 49.000;35%;In-store
 West Gear;1185732;11/11/2021;West;Utah;Salt Lake City;Women's Apparel;$ 45,00;450;$ 202.500;$ 101.250;50%;In-store
@@ -1892,7 +1892,7 @@ West Gear;1128299;25/5/2021;West;Oregon;Portland;Women's Street Footwear;$ 55,00
 West Gear;1128299;25/5/2021;West;Oregon;Portland;Women's Athletic Footwear;$ 50,00;275;$ 137.500;$ 48.125;35%;In-store
 West Gear;1128299;25/5/2021;West;Oregon;Portland;Men's Apparel;$ 45,00;175;$ 78.750;$ 31.500;40%;In-store
 West Gear;1128299;25/5/2021;West;Oregon;Portland;Women's Apparel;$ 60,00;525;$ 315.000;$ 94.500;30%;In-store
-West Gear;1128299;24/6/2021;West;Oregon;Portland;Men's Street Footwear;$ 55,00;775;$ 426.250;$ 149.188;35%;In-store
+West Gear;1128299;24/6/2021;West;Oregon;Portland;Men's Street Footwear;$ 55,00;;$ 426.250;$ 149.188;35%;In-store
 West Gear;1128299;24/6/2021;West;Oregon;Portland;Men's Athletic Footwear;$ 65,00;650;$ 422.500;$ 147.875;35%;In-store
 West Gear;1128299;24/6/2021;West;Oregon;Portland;Women's Street Footwear;$ 80,00;650;$ 520.000;$ 182.000;35%;In-store
 West Gear;1128299;24/6/2021;West;Oregon;Portland;Women's Athletic Footwear;$ 80,00;525;$ 420.000;$ 147.000;35%;In-store
@@ -1927,14 +1927,14 @@ West Gear;1128299;24/11/2021;West;Oregon;Portland;Men's Athletic Footwear;$ 50,0
 West Gear;1128299;24/11/2021;West;Oregon;Portland;Women's Street Footwear;$ 45,00;475;$ 213.750;$ 74.813;35%;In-store
 West Gear;1128299;24/11/2021;West;Oregon;Portland;Women's Athletic Footwear;$ 55,00;450;$ 247.500;$ 86.625;35%;In-store
 West Gear;1128299;24/11/2021;West;Oregon;Portland;Men's Apparel;$ 75,00;425;$ 318.750;$ 127.500;40%;In-store
-West Gear;1128299;24/11/2021;West;Oregon;Portland;Women's Apparel;$ 80,00;550;$ 440.000;$ 132.000;30%;In-store
+West Gear;1128299;24/11/2021;West;Oregon;Portland;Women's Apparel;$ 80,00;;$ 440.000;$ 132.000;30%;In-store
 West Gear;1128299;23/12/2021;West;Oregon;Portland;Men's Street Footwear;$ 65,00;750;$ 487.500;$ 170.625;35%;In-store
 West Gear;1128299;23/12/2021;West;Oregon;Portland;Men's Athletic Footwear;$ 75,00;750;$ 562.500;$ 196.875;35%;In-store
-West Gear;1128299;23/12/2021;West;Oregon;Portland;Women's Street Footwear;$ 70,00;550;$ 385.000;$ 134.750;35%;In-store
+West Gear;1128299;23/12/2021;West;Oregon;Portland;Women's Street Footwear;$ 70,00;;$ 385.000;$ 134.750;35%;In-store
 West Gear;1128299;23/12/2021;West;Oregon;Portland;Women's Athletic Footwear;$ 70,00;550;$ 385.000;$ 134.750;35%;In-store
 West Gear;1128299;23/12/2021;West;Oregon;Portland;Men's Apparel;$ 80,00;475;$ 380.000;$ 152.000;40%;In-store
 West Gear;1128299;23/12/2021;West;Oregon;Portland;Women's Apparel;$ 85,00;575;$ 488.750;$ 146.625;30%;In-store
-West Gear;1128299;17/1/2021;West;Oregon;Portland;Men's Street Footwear;$ 35,00;400;$ 140.000;$ 56.000;40%;In-store
+West Gear;1128299;17/1/2021;West;Oregon;Portland;Men's Street Footwear;$ 35,00;;$ 140.000;$ 56.000;40%;In-store
 West Gear;1128299;17/1/2021;West;Oregon;Portland;Men's Athletic Footwear;$ 45,00;400;$ 180.000;$ 72.000;40%;In-store
 West Gear;1128299;17/1/2021;West;Oregon;Portland;Women's Street Footwear;$ 45,00;400;$ 180.000;$ 72.000;40%;In-store
 West Gear;1128299;17/1/2021;West;Oregon;Portland;Women's Athletic Footwear;$ 45,00;250;$ 112.500;$ 45.000;40%;In-store
@@ -2006,7 +2006,7 @@ Foot Locker;1128299;16/12/2021;South;Louisiana;New Orleans;Women's Street Footwe
 Foot Locker;1128299;16/12/2021;South;Louisiana;New Orleans;Women's Athletic Footwear;$ 75,00;600;$ 450.000;$ 180.000;40%;Online
 Foot Locker;1128299;16/12/2021;South;Louisiana;New Orleans;Men's Apparel;$ 85,00;525;$ 446.250;$ 200.813;45%;Online
 Foot Locker;1128299;16/12/2021;South;Louisiana;New Orleans;Women's Apparel;$ 90,00;625;$ 562.500;$ 196.875;35%;Online
-Foot Locker;1197831;5/1/2021;South;Louisiana;New Orleans;Men's Street Footwear;$ 20,00;675;$ 135.000;$ 40.500;30%;Online
+Foot Locker;1197831;5/1/2021;South;Louisiana;New Orleans;Men's Street Footwear;$ 20,00;;$ 135.000;$ 40.500;30%;Online
 Foot Locker;1197831;5/1/2021;South;Louisiana;New Orleans;Men's Athletic Footwear;$ 30,00;675;$ 202.500;$ 60.750;30%;Online
 Foot Locker;1197831;5/1/2021;South;Louisiana;New Orleans;Women's Street Footwear;$ 30,00;475;$ 142.500;$ 42.750;30%;Online
 Foot Locker;1197831;5/1/2021;South;Louisiana;New Orleans;Women's Athletic Footwear;$ 35,00;475;$ 166.250;$ 66.500;40%;Online
@@ -2050,7 +2050,7 @@ West Gear;1197831;6/7/2021;West;Idaho;Boise;Men's Apparel;$ 55,00;525;$ 288.750;
 Foot Locker;1197831;6/7/2021;West;Idaho;Boise;Women's Apparel;$ 65,00;800;$ 520.000;$ 286.000;55%;Online
 Foot Locker;1197831;8/8/2021;West;Idaho;Boise;Men's Street Footwear;$ 50,00;750;$ 375.000;$ 150.000;40%;Online
 Foot Locker;1197831;8/8/2021;West;Idaho;Boise;Men's Athletic Footwear;$ 55,00;750;$ 412.500;$ 165.000;40%;Online
-Foot Locker;1197831;8/8/2021;West;Idaho;Boise;Women's Street Footwear;$ 50,00;925;$ 462.500;$ 185.000;40%;Online
+Foot Locker;1197831;8/8/2021;West;Idaho;Boise;Women's Street Footwear;$ 50,00;;$ 462.500;$ 185.000;40%;Online
 Foot Locker;1197831;8/8/2021;West;Idaho;Boise;Women's Athletic Footwear;$ 50,00;475;$ 237.500;$ 118.750;50%;Online
 Sports Direct;1197831;8/8/2021;West;Idaho;Boise;Men's Apparel;$ 55,00;475;$ 261.250;$ 91.438;35%;Online
 Sports Direct;1197831;8/8/2021;West;Idaho;Boise;Women's Apparel;$ 60,00;725;$ 435.000;$ 239.250;55%;Online
@@ -2176,7 +2176,7 @@ Kohl's;1128299;26/4/2021;West;New Mexico;Albuquerque;Men's Apparel;$ 60,00;200;$
 Kohl's;1128299;26/4/2021;West;New Mexico;Albuquerque;Women's Apparel;$ 75,00;375;$ 281.250;$ 70.313;25%;Online
 Kohl's;1128299;27/5/2021;West;New Mexico;Albuquerque;Men's Street Footwear;$ 55,00;575;$ 316.250;$ 110.688;35%;Online
 Kohl's;1128299;27/5/2021;West;New Mexico;Albuquerque;Men's Athletic Footwear;$ 60,00;425;$ 255.000;$ 102.000;40%;Online
-Kohl's;1128299;27/5/2021;West;New Mexico;Albuquerque;Women's Street Footwear;$ 60,00;450;$ 270.000;$ 94.500;35%;Online
+Kohl's;1128299;27/5/2021;West;New Mexico;Albuquerque;Women's Street Footwear;$ 60,00;;$ 270.000;$ 94.500;35%;Online
 Kohl's;1128299;27/5/2021;West;New Mexico;Albuquerque;Women's Athletic Footwear;$ 55,00;350;$ 192.500;$ 67.375;35%;Online
 Kohl's;1128299;27/5/2021;West;New Mexico;Albuquerque;Men's Apparel;$ 60,00;250;$ 150.000;$ 45.000;30%;Online
 Kohl's;1128299;27/5/2021;West;New Mexico;Albuquerque;Women's Apparel;$ 75,00;425;$ 318.750;$ 79.688;25%;Online
@@ -2249,7 +2249,7 @@ Sports Direct;1128299;13/4/2021;Southeast;Georgia;Atlanta;Women's Apparel;$ 70,0
 Sports Direct;1128299;14/5/2021;Southeast;Georgia;Atlanta;Men's Street Footwear;$ 50,00;550;$ 275.000;$ 110.000;40%;Online
 Sports Direct;1128299;14/5/2021;Southeast;Georgia;Atlanta;Men's Athletic Footwear;$ 55,00;400;$ 220.000;$ 88.000;40%;Online
 Sports Direct;1128299;14/5/2021;Southeast;Georgia;Atlanta;Women's Street Footwear;$ 55,00;425;$ 233.750;$ 81.813;35%;Online
-Sports Direct;1128299;14/5/2021;Southeast;Georgia;Atlanta;Women's Athletic Footwear;$ 50,00;325;$ 162.500;$ 65.000;40%;Online
+Sports Direct;1128299;14/5/2021;Southeast;Georgia;Atlanta;Women's Athletic Footwear;$ 50,00;;$ 162.500;$ 65.000;40%;Online
 Sports Direct;1128299;14/5/2021;Southeast;Georgia;Atlanta;Men's Apparel;$ 55,00;225;$ 123.750;$ 43.313;35%;Online
 Sports Direct;1128299;14/5/2021;Southeast;Georgia;Atlanta;Women's Apparel;$ 70,00;400;$ 280.000;$ 70.000;25%;Online
 Sports Direct;1128299;13/6/2021;Southeast;Georgia;Atlanta;Men's Street Footwear;$ 50,00;675;$ 337.500;$ 135.000;40%;Online
@@ -2318,7 +2318,7 @@ Foot Locker;1185732;6/4/2021;Southeast;South Carolina;Charleston;Women's Street 
 Foot Locker;1185732;6/4/2021;Southeast;South Carolina;Charleston;Women's Athletic Footwear;$ 30,00;600;$ 180.000;$ 54.000;30%;Online
 Foot Locker;1185732;6/4/2021;Southeast;South Carolina;Charleston;Men's Apparel;$ 50,00;625;$ 312.500;$ 109.375;35%;Online
 Foot Locker;1185732;6/4/2021;Southeast;South Carolina;Charleston;Women's Apparel;$ 40,00;775;$ 310.000;$ 155.000;50%;Online
-Foot Locker;1185732;5/5/2021;Southeast;South Carolina;Charleston;Men's Street Footwear;$ 50,00;1.045;$ 522.500;$ 235.125;45%;Online
+Foot Locker;1185732;5/5/2021;Southeast;South Carolina;Charleston;Men's Street Footwear;$ 50,00;;$ 522.500;$ 235.125;45%;Online
 Foot Locker;1185732;5/5/2021;Southeast;South Carolina;Charleston;Men's Athletic Footwear;$ 50,00;750;$ 375.000;$ 131.250;35%;Online
 Foot Locker;1185732;5/5/2021;Southeast;South Carolina;Charleston;Women's Street Footwear;$ 45,00;725;$ 326.250;$ 81.563;25%;Online
 Foot Locker;1185732;5/5/2021;Southeast;South Carolina;Charleston;Women's Athletic Footwear;$ 45,00;675;$ 303.750;$ 91.125;30%;Online
@@ -2399,11 +2399,11 @@ Sports Direct;1185732;2/5/2021;Southeast;North Carolina;Charlotte;Women's Appare
 Sports Direct;1185732;4/6/2021;Southeast;North Carolina;Charlotte;Men's Street Footwear;$ 50,00;950;$ 475.000;$ 190.000;40%;Online
 Sports Direct;1185732;4/6/2021;Southeast;North Carolina;Charlotte;Men's Athletic Footwear;$ 45,00;700;$ 315.000;$ 110.250;35%;Online
 Sports Direct;1185732;4/6/2021;Southeast;North Carolina;Charlotte;Women's Street Footwear;$ 50,00;675;$ 337.500;$ 135.000;40%;Online
-Sports Direct;1185732;4/6/2021;Southeast;North Carolina;Charlotte;Women's Athletic Footwear;$ 50,00;650;$ 325.000;$ 130.000;40%;Online
-Sports Direct;1185732;4/6/2021;Southeast;North Carolina;Charlotte;Men's Apparel;$ 65,00;650;$ 422.500;$ 147.875;35%;Online
+Sports Direct;1185732;4/6/2021;Southeast;North Carolina;Charlotte;Women's Athletic Footwear;$ 50,00;;$ 325.000;$ 130.000;40%;Online
+Sports Direct;1185732;4/6/2021;Southeast;North Carolina;Charlotte;Men's Apparel;$ 65,00;;$ 422.500;$ 147.875;35%;Online
 Sports Direct;1185732;4/6/2021;Southeast;North Carolina;Charlotte;Women's Apparel;$ 70,00;825;$ 577.500;$ 288.750;50%;Online
 Sports Direct;1185732;2/7/2021;Southeast;North Carolina;Charlotte;Men's Street Footwear;$ 65,00;1.050;$ 682.500;$ 273.000;40%;Online
-Sports Direct;1185732;2/7/2021;Southeast;North Carolina;Charlotte;Men's Athletic Footwear;$ 60,00;800;$ 480.000;$ 168.000;35%;Online
+Sports Direct;1185732;2/7/2021;Southeast;North Carolina;Charlotte;Men's Athletic Footwear;$ 60,00;;$ 480.000;$ 168.000;35%;Online
 Sports Direct;1185732;2/7/2021;Southeast;North Carolina;Charlotte;Women's Street Footwear;$ 55,00;725;$ 398.750;$ 159.500;40%;Online
 Sports Direct;1185732;2/7/2021;Southeast;North Carolina;Charlotte;Women's Athletic Footwear;$ 55,00;675;$ 371.250;$ 148.500;40%;Online
 Sports Direct;1185732;2/7/2021;Southeast;North Carolina;Charlotte;Men's Apparel;$ 65,00;700;$ 455.000;$ 159.250;35%;Online
@@ -2527,9 +2527,9 @@ Amazon;1185732;21/3/2021;Southeast;Kentucky;Louisville;Men's Athletic Footwear;$
 Amazon;1185732;21/3/2021;Southeast;Kentucky;Louisville;Women's Street Footwear;$ 35,00;250;$ 87.500;$ 35.000;40%;Online
 Amazon;1185732;21/3/2021;Southeast;Kentucky;Louisville;Women's Athletic Footwear;$ 40,00;100;$ 40.000;$ 16.000;40%;Online
 Amazon;1185732;21/3/2021;Southeast;Kentucky;Louisville;Men's Apparel;$ 55,00;150;$ 82.500;$ 28.875;35%;Online
-Amazon;1185732;21/3/2021;Southeast;Kentucky;Louisville;Women's Apparel;$ 45,00;250;$ 112.500;$ 45.000;40%;Online
-Amazon;1185732;22/4/2021;Southeast;Kentucky;Louisville;Men's Street Footwear;$ 45,00;475;$ 213.750;$ 85.500;40%;Online
-Amazon;1185732;22/4/2021;Southeast;Kentucky;Louisville;Men's Athletic Footwear;$ 45,00;175;$ 78.750;$ 27.563;35%;Online
+Amazon;1185732;21/3/2021;Southeast;Kentucky;Louisville;Women's Apparel;$ 45,00;;$ 112.500;$ 45.000;40%;Online
+Amazon;1185732;22/4/2021;Southeast;Kentucky;Louisville;Men's Street Footwear;$ 45,00;;$ 213.750;$ 85.500;40%;Online
+Amazon;1185732;22/4/2021;Southeast;Kentucky;Louisville;Men's Athletic Footwear;$ 45,00;;$ 78.750;$ 27.563;35%;Online
 Amazon;1185732;22/4/2021;Southeast;Kentucky;Louisville;Women's Street Footwear;$ 40,00;175;$ 70.000;$ 28.000;40%;Online
 Amazon;1185732;22/4/2021;Southeast;Kentucky;Louisville;Women's Athletic Footwear;$ 45,00;100;$ 45.000;$ 18.000;40%;Online
 Amazon;1185732;22/4/2021;Southeast;Kentucky;Louisville;Men's Apparel;$ 50,00;125;$ 62.500;$ 21.875;35%;Online
@@ -2578,8 +2578,8 @@ Foot Locker;1185732;22/11/2021;Southeast;Kentucky;Louisville;Men's Apparel;$ 65,
 Foot Locker;1185732;22/11/2021;Southeast;Kentucky;Louisville;Women's Apparel;$ 70,00;275;$ 192.500;$ 77.000;40%;Online
 Foot Locker;1185732;21/12/2021;Southeast;Kentucky;Louisville;Men's Street Footwear;$ 65,00;525;$ 341.250;$ 136.500;40%;Online
 Foot Locker;1185732;21/12/2021;Southeast;Kentucky;Louisville;Men's Athletic Footwear;$ 55,00;325;$ 178.750;$ 62.563;35%;Online
-Foot Locker;1185732;21/12/2021;Southeast;Kentucky;Louisville;Women's Street Footwear;$ 55,00;275;$ 151.250;$ 60.500;40%;Online
-Foot Locker;1185732;21/12/2021;Southeast;Kentucky;Louisville;Women's Athletic Footwear;$ 50,00;225;$ 112.500;$ 45.000;40%;Online
+Foot Locker;1185732;21/12/2021;Southeast;Kentucky;Louisville;Women's Street Footwear;$ 55,00;;$ 151.250;$ 60.500;40%;Online
+Foot Locker;1185732;21/12/2021;Southeast;Kentucky;Louisville;Women's Athletic Footwear;$ 50,00;;$ 112.500;$ 45.000;40%;Online
 Foot Locker;1185732;21/12/2021;Southeast;Kentucky;Louisville;Men's Apparel;$ 60,00;225;$ 135.000;$ 47.250;35%;Online
 Foot Locker;1185732;21/12/2021;Southeast;Kentucky;Louisville;Women's Apparel;$ 65,00;325;$ 211.250;$ 84.500;40%;Online
 Foot Locker;1185732;20/1/2021;Southeast;Kentucky;Louisville;Men's Street Footwear;$ 30,00;725;$ 217.500;$ 87.000;40%;Online
@@ -2623,7 +2623,7 @@ Walmart;1185732;16/7/2021;South;Mississippi;Jackson;Men's Athletic Footwear;$ 55
 Walmart;1185732;16/7/2021;South;Mississippi;Jackson;Women's Street Footwear;$ 50,00;525;$ 262.500;$ 105.000;40%;Online
 Walmart;1185732;16/7/2021;South;Mississippi;Jackson;Women's Athletic Footwear;$ 50,00;475;$ 237.500;$ 95.000;40%;Online
 Walmart;1185732;16/7/2021;South;Mississippi;Jackson;Men's Apparel;$ 60,00;500;$ 300.000;$ 105.000;35%;Online
-Walmart;1185732;16/7/2021;South;Mississippi;Jackson;Women's Apparel;$ 65,00;675;$ 438.750;$ 219.375;50%;Online
+Walmart;1185732;16/7/2021;South;Mississippi;Jackson;Women's Apparel;$ 65,00;;$ 438.750;$ 219.375;50%;Online
 Walmart;1185732;17/8/2021;South;Mississippi;Jackson;Men's Street Footwear;$ 60,00;825;$ 495.000;$ 198.000;40%;Online
 Walmart;1185732;17/8/2021;South;Mississippi;Jackson;Men's Athletic Footwear;$ 55,00;600;$ 330.000;$ 115.500;35%;Online
 Walmart;1185732;17/8/2021;South;Mississippi;Jackson;Women's Street Footwear;$ 50,00;525;$ 262.500;$ 105.000;40%;Online
@@ -2667,7 +2667,7 @@ Walmart;1197831;21/2/2021;South;Arkansas;Little Rock;Women's Athletic Footwear;$
 Walmart;1197831;21/2/2021;South;Arkansas;Little Rock;Men's Apparel;$ 35,00;325;$ 113.750;$ 39.813;35%;Online
 Walmart;1197831;21/2/2021;South;Arkansas;Little Rock;Women's Apparel;$ 20,00;425;$ 85.000;$ 34.000;40%;Online
 Walmart;1197831;19/3/2021;South;Arkansas;Little Rock;Men's Street Footwear;$ 20,00;645;$ 129.000;$ 51.600;40%;Online
-Walmart;1197831;19/3/2021;South;Arkansas;Little Rock;Men's Athletic Footwear;$ 20,00;325;$ 65.000;$ 22.750;35%;Online
+Walmart;1197831;19/3/2021;South;Arkansas;Little Rock;Men's Athletic Footwear;$ 20,00;;$ 65.000;$ 22.750;35%;Online
 Walmart;1197831;19/3/2021;South;Arkansas;Little Rock;Women's Street Footwear;$ 10,00;350;$ 35.000;$ 14.000;40%;Online
 Walmart;1197831;19/3/2021;South;Arkansas;Little Rock;Women's Athletic Footwear;$ 20,00;200;$ 40.000;$ 16.000;40%;Online
 Walmart;1197831;19/3/2021;South;Arkansas;Little Rock;Men's Apparel;$ 35,00;250;$ 87.500;$ 30.625;35%;Online
@@ -2721,9 +2721,9 @@ West Gear;1197831;20/11/2021;South;Arkansas;Little Rock;Women's Athletic Footwea
 West Gear;1197831;20/11/2021;South;Arkansas;Little Rock;Men's Apparel;$ 75,00;350;$ 262.500;$ 91.875;35%;Online
 West Gear;1197831;20/11/2021;South;Arkansas;Little Rock;Women's Apparel;$ 75,00;450;$ 337.500;$ 135.000;40%;Online
 West Gear;1197831;19/12/2021;South;Arkansas;Little Rock;Men's Street Footwear;$ 70,00;700;$ 490.000;$ 196.000;40%;Online
-West Gear;1197831;19/12/2021;South;Arkansas;Little Rock;Men's Athletic Footwear;$ 60,00;500;$ 300.000;$ 105.000;35%;Online
+West Gear;1197831;19/12/2021;South;Arkansas;Little Rock;Men's Athletic Footwear;$ 60,00;;$ 300.000;$ 105.000;35%;Online
 West Gear;1197831;19/12/2021;South;Arkansas;Little Rock;Women's Street Footwear;$ 60,00;450;$ 270.000;$ 108.000;40%;Online
-West Gear;1197831;19/12/2021;South;Arkansas;Little Rock;Women's Athletic Footwear;$ 60,00;400;$ 240.000;$ 96.000;40%;Online
+West Gear;1197831;19/12/2021;South;Arkansas;Little Rock;Women's Athletic Footwear;$ 60,00;;$ 240.000;$ 96.000;40%;Online
 West Gear;1197831;19/12/2021;South;Arkansas;Little Rock;Men's Apparel;$ 70,00;400;$ 280.000;$ 98.000;35%;Online
 West Gear;1197831;19/12/2021;South;Arkansas;Little Rock;Women's Apparel;$ 75,00;500;$ 375.000;$ 150.000;40%;Online
 West Gear;1197831;23/1/2021;South;Arkansas;Little Rock;Men's Street Footwear;$ 25,00;575;$ 143.750;$ 57.500;40%;Online
@@ -2806,7 +2806,7 @@ Kohl's;1197831;16/1/2021;South;Oklahoma;Oklahoma City;Men's Apparel;$ 35,00;250;
 Kohl's;1197831;16/1/2021;South;Oklahoma;Oklahoma City;Women's Apparel;$ 25,00;350;$ 87.500;$ 30.625;35%;Online
 Kohl's;1197831;14/2/2021;South;Oklahoma;Oklahoma City;Men's Street Footwear;$ 25,00;600;$ 150.000;$ 52.500;35%;Online
 Kohl's;1197831;14/2/2021;South;Oklahoma;Oklahoma City;Men's Athletic Footwear;$ 25,00;250;$ 62.500;$ 21.875;35%;Online
-Kohl's;1197831;14/2/2021;South;Oklahoma;Oklahoma City;Women's Street Footwear;$ 15,00;300;$ 45.000;$ 15.750;35%;Online
+Kohl's;1197831;14/2/2021;South;Oklahoma;Oklahoma City;Women's Street Footwear;$ 15,00;;$ 45.000;$ 15.750;35%;Online
 Kohl's;1197831;14/2/2021;Midwest;Kansas;Wichita;Women's Athletic Footwear;$ 20,00;150;$ 30.000;$ 10.500;35%;Online
 Kohl's;1197831;14/2/2021;Midwest;Kansas;Wichita;Men's Apparel;$ 35,00;225;$ 78.750;$ 27.563;35%;Online
 Kohl's;1197831;14/2/2021;Midwest;Kansas;Wichita;Women's Apparel;$ 20,00;325;$ 65.000;$ 22.750;35%;Online
@@ -2852,7 +2852,7 @@ Kohl's;1197831;12/9/2021;Midwest;Kansas;Wichita;Women's Street Footwear;$ 15,00;
 Kohl's;1197831;12/9/2021;Midwest;Kansas;Wichita;Women's Athletic Footwear;$ 15,00;225;$ 33.750;$ 11.813;35%;Online
 Kohl's;1197831;12/9/2021;Midwest;Kansas;Wichita;Men's Apparel;$ 25,00;225;$ 56.250;$ 19.688;35%;Online
 Kohl's;1197831;12/9/2021;Midwest;Kansas;Wichita;Women's Apparel;$ 30,00;325;$ 97.500;$ 34.125;35%;Online
-Kohl's;1197831;14/10/2021;Midwest;Kansas;Wichita;Men's Street Footwear;$ 30,00;500;$ 150.000;$ 52.500;35%;Online
+Kohl's;1197831;14/10/2021;Midwest;Kansas;Wichita;Men's Street Footwear;$ 30,00;;$ 150.000;$ 52.500;35%;Online
 Kohl's;1197831;14/10/2021;Midwest;Kansas;Wichita;Men's Athletic Footwear;$ 20,00;325;$ 65.000;$ 22.750;35%;Online
 Kohl's;1197831;14/10/2021;Midwest;Kansas;Wichita;Women's Street Footwear;$ 20,00;200;$ 40.000;$ 14.000;35%;Online
 Kohl's;1197831;14/10/2021;Midwest;Kansas;Wichita;Women's Athletic Footwear;$ 20,00;175;$ 35.000;$ 12.250;35%;Online
@@ -2933,14 +2933,14 @@ Sports Direct;1185732;12/10/2021;Midwest;South Dakota;Sioux Falls;Women's Appare
 Sports Direct;1185732;12/11/2021;Midwest;South Dakota;Sioux Falls;Men's Street Footwear;$ 55,00;400;$ 220.000;$ 77.000;35%;Online
 Sports Direct;1185732;12/11/2021;Midwest;South Dakota;Sioux Falls;Men's Athletic Footwear;$ 45,00;250;$ 112.500;$ 33.750;30%;Online
 Sports Direct;1185732;12/11/2021;Midwest;South Dakota;Sioux Falls;Women's Street Footwear;$ 45,00;195;$ 87.750;$ 26.325;30%;Online
-Sports Direct;1185732;12/11/2021;Midwest;South Dakota;Sioux Falls;Women's Athletic Footwear;$ 45,00;175;$ 78.750;$ 23.625;30%;Online
+Sports Direct;1185732;12/11/2021;Midwest;South Dakota;Sioux Falls;Women's Athletic Footwear;$ 45,00;;$ 78.750;$ 23.625;30%;Online
 Sports Direct;1185732;12/11/2021;Midwest;South Dakota;Sioux Falls;Men's Apparel;$ 60,00;150;$ 90.000;$ 31.500;35%;Online
 Sports Direct;1185732;12/11/2021;Midwest;South Dakota;Sioux Falls;Women's Apparel;$ 65,00;250;$ 162.500;$ 65.000;40%;Online
 Sports Direct;1185732;11/12/2021;Midwest;South Dakota;Sioux Falls;Men's Street Footwear;$ 60,00;500;$ 300.000;$ 105.000;35%;Online
 Sports Direct;1185732;11/12/2021;Midwest;South Dakota;Sioux Falls;Men's Athletic Footwear;$ 50,00;300;$ 150.000;$ 45.000;30%;Online
 Sports Direct;1185732;11/12/2021;Midwest;South Dakota;Sioux Falls;Women's Street Footwear;$ 50,00;250;$ 125.000;$ 37.500;30%;Online
 Sports Direct;1185732;11/12/2021;Midwest;South Dakota;Sioux Falls;Women's Athletic Footwear;$ 50,00;200;$ 100.000;$ 30.000;30%;Online
-Sports Direct;1185732;11/12/2021;Midwest;South Dakota;Sioux Falls;Men's Apparel;$ 60,00;200;$ 120.000;$ 42.000;35%;Online
+Sports Direct;1185732;11/12/2021;Midwest;South Dakota;Sioux Falls;Men's Apparel;$ 60,00;;$ 120.000;$ 42.000;35%;Online
 Sports Direct;1185732;11/12/2021;Midwest;South Dakota;Sioux Falls;Women's Apparel;$ 65,00;300;$ 195.000;$ 78.000;40%;Online
 Sports Direct;1185732;9/1/2021;Midwest;South Dakota;Sioux Falls;Men's Street Footwear;$ 35,00;475;$ 166.250;$ 58.188;35%;Online
 Sports Direct;1185732;9/1/2021;Midwest;South Dakota;Sioux Falls;Men's Athletic Footwear;$ 35,00;275;$ 96.250;$ 28.875;30%;Online
@@ -2981,7 +2981,7 @@ Sports Direct;1185732;9/6/2021;Midwest;North Dakota;Fargo;Women's Apparel;$ 55,0
 Sports Direct;1185732;8/7/2021;Midwest;North Dakota;Fargo;Men's Street Footwear;$ 50,00;550;$ 275.000;$ 96.250;35%;In-store
 Sports Direct;1185732;8/7/2021;Midwest;North Dakota;Fargo;Men's Athletic Footwear;$ 45,00;300;$ 135.000;$ 40.500;30%;In-store
 Sports Direct;1185732;8/7/2021;Midwest;North Dakota;Fargo;Women's Street Footwear;$ 40,00;225;$ 90.000;$ 27.000;30%;In-store
-Sports Direct;1185732;8/7/2021;Midwest;North Dakota;Fargo;Women's Athletic Footwear;$ 40,00;175;$ 70.000;$ 21.000;30%;In-store
+Sports Direct;1185732;8/7/2021;Midwest;North Dakota;Fargo;Women's Athletic Footwear;$ 40,00;;$ 70.000;$ 21.000;30%;In-store
 Sports Direct;1185732;8/7/2021;Midwest;North Dakota;Fargo;Men's Apparel;$ 50,00;200;$ 100.000;$ 35.000;35%;In-store
 Sports Direct;1185732;8/7/2021;Midwest;North Dakota;Fargo;Women's Apparel;$ 55,00;375;$ 206.250;$ 82.500;40%;In-store
 Sports Direct;1185732;9/8/2021;Midwest;North Dakota;Fargo;Men's Street Footwear;$ 50,00;525;$ 262.500;$ 91.875;35%;In-store
@@ -3030,7 +3030,7 @@ Foot Locker;1185732;5/3/2021;Midwest;Iowa;Des Moines;Men's Street Footwear;$ 20,
 Foot Locker;1185732;5/3/2021;Midwest;Iowa;Des Moines;Men's Athletic Footwear;$ 20,00;175;$ 35.000;$ 12.250;35%;In-store
 Foot Locker;1185732;5/3/2021;Midwest;Iowa;Des Moines;Women's Street Footwear;$ 10,00;225;$ 22.500;$ 6.750;30%;In-store
 Foot Locker;1185732;5/3/2021;Midwest;Iowa;Des Moines;Women's Athletic Footwear;$ 15,00;100;$ 15.000;$ 4.500;30%;In-store
-Foot Locker;1185732;5/3/2021;Midwest;Iowa;Des Moines;Men's Apparel;$ 30,00;150;$ 45.000;$ 22.500;50%;In-store
+Foot Locker;1185732;5/3/2021;Midwest;Iowa;Des Moines;Men's Apparel;$ 30,00;;$ 45.000;$ 22.500;50%;In-store
 Foot Locker;1185732;5/3/2021;Midwest;Iowa;Des Moines;Women's Apparel;$ 20,00;250;$ 50.000;$ 20.000;40%;In-store
 Foot Locker;1185732;6/4/2021;Midwest;Iowa;Des Moines;Men's Street Footwear;$ 20,00;475;$ 95.000;$ 28.500;30%;In-store
 Foot Locker;1185732;6/4/2021;Midwest;Iowa;Des Moines;Men's Athletic Footwear;$ 20,00;175;$ 35.000;$ 12.250;35%;In-store
@@ -3125,7 +3125,7 @@ West Gear;1185732;3/6/2021;Midwest;Wisconsin;Milwaukee;Women's Apparel;$ 55,00;3
 West Gear;1185732;2/7/2021;Midwest;Wisconsin;Milwaukee;Men's Street Footwear;$ 50,00;550;$ 275.000;$ 82.500;30%;In-store
 West Gear;1185732;2/7/2021;Midwest;Wisconsin;Milwaukee;Men's Athletic Footwear;$ 45,00;300;$ 135.000;$ 47.250;35%;In-store
 West Gear;1185732;2/7/2021;Midwest;Wisconsin;Milwaukee;Women's Street Footwear;$ 40,00;225;$ 90.000;$ 27.000;30%;In-store
-West Gear;1185732;2/7/2021;Midwest;Wisconsin;Milwaukee;Women's Athletic Footwear;$ 40,00;175;$ 70.000;$ 21.000;30%;In-store
+West Gear;1185732;2/7/2021;Midwest;Wisconsin;Milwaukee;Women's Athletic Footwear;$ 40,00;;$ 70.000;$ 21.000;30%;In-store
 West Gear;1185732;2/7/2021;Midwest;Wisconsin;Milwaukee;Men's Apparel;$ 50,00;200;$ 100.000;$ 50.000;50%;In-store
 West Gear;1185732;2/7/2021;Midwest;Wisconsin;Milwaukee;Women's Apparel;$ 55,00;375;$ 206.250;$ 82.500;40%;In-store
 West Gear;1185732;3/8/2021;Midwest;Wisconsin;Milwaukee;Men's Street Footwear;$ 50,00;525;$ 262.500;$ 78.750;30%;In-store
@@ -3219,9 +3219,9 @@ West Gear;1185732;10/10/2021;Midwest;Indiana;Indianapolis;Women's Athletic Footw
 West Gear;1185732;10/10/2021;Midwest;Indiana;Indianapolis;Men's Apparel;$ 45,00;150;$ 67.500;$ 20.250;30%;In-store
 West Gear;1185732;10/10/2021;Midwest;Indiana;Indianapolis;Women's Apparel;$ 50,00;275;$ 137.500;$ 55.000;40%;In-store
 West Gear;1185732;10/11/2021;Midwest;Indiana;Indianapolis;Men's Street Footwear;$ 45,00;425;$ 191.250;$ 76.500;40%;In-store
-West Gear;1185732;10/11/2021;Midwest;Indiana;Indianapolis;Men's Athletic Footwear;$ 35,00;325;$ 113.750;$ 45.500;40%;In-store
+West Gear;1185732;10/11/2021;Midwest;Indiana;Indianapolis;Men's Athletic Footwear;$ 35,00;;$ 113.750;$ 45.500;40%;In-store
 West Gear;1185732;10/11/2021;Midwest;Indiana;Indianapolis;Women's Street Footwear;$ 35,00;270;$ 94.500;$ 33.075;35%;In-store
-West Gear;1185732;10/11/2021;Midwest;Indiana;Indianapolis;Women's Athletic Footwear;$ 35,00;275;$ 96.250;$ 33.688;35%;In-store
+West Gear;1185732;10/11/2021;Midwest;Indiana;Indianapolis;Women's Athletic Footwear;$ 35,00;;$ 96.250;$ 33.688;35%;In-store
 West Gear;1185732;10/11/2021;Midwest;Indiana;Indianapolis;Men's Apparel;$ 60,00;250;$ 150.000;$ 45.000;30%;In-store
 West Gear;1185732;10/11/2021;Midwest;Indiana;Indianapolis;Women's Apparel;$ 65,00;350;$ 227.500;$ 91.000;40%;In-store
 West Gear;1185732;9/12/2021;Midwest;Indiana;Indianapolis;Men's Street Footwear;$ 60,00;600;$ 360.000;$ 144.000;40%;In-store
@@ -3271,7 +3271,7 @@ West Gear;1185732;16/7/2021;Northeast;West Virginia;Charleston;Men's Athletic Fo
 West Gear;1185732;16/7/2021;Northeast;West Virginia;Charleston;Women's Street Footwear;$ 50,00;325;$ 162.500;$ 65.000;40%;In-store
 West Gear;1185732;16/7/2021;Northeast;West Virginia;Charleston;Women's Athletic Footwear;$ 50,00;275;$ 137.500;$ 55.000;40%;In-store
 West Gear;1185732;16/7/2021;Northeast;West Virginia;Charleston;Men's Apparel;$ 60,00;300;$ 180.000;$ 72.000;40%;In-store
-West Gear;1185732;16/7/2021;Northeast;West Virginia;Charleston;Women's Apparel;$ 65,00;475;$ 308.750;$ 123.500;40%;In-store
+West Gear;1185732;16/7/2021;Northeast;West Virginia;Charleston;Women's Apparel;$ 65,00;;$ 308.750;$ 123.500;40%;In-store
 West Gear;1185732;17/8/2021;Northeast;West Virginia;Charleston;Men's Street Footwear;$ 50,00;525;$ 262.500;$ 105.000;40%;In-store
 West Gear;1185732;17/8/2021;Northeast;West Virginia;Charleston;Men's Athletic Footwear;$ 45,00;300;$ 135.000;$ 54.000;40%;In-store
 West Gear;1185732;17/8/2021;Northeast;West Virginia;Charleston;Women's Street Footwear;$ 40,00;300;$ 120.000;$ 48.000;40%;In-store
@@ -3344,10 +3344,10 @@ Sports Direct;1185732;20/7/2021;Northeast;Maryland;Baltimore;Women's Street Foot
 Sports Direct;1185732;20/7/2021;Northeast;Maryland;Baltimore;Women's Athletic Footwear;$ 40,00;150;$ 60.000;$ 21.000;35%;In-store
 Sports Direct;1185732;20/7/2021;Northeast;Maryland;Baltimore;Men's Apparel;$ 50,00;175;$ 87.500;$ 26.250;30%;In-store
 Sports Direct;1185732;20/7/2021;Northeast;Maryland;Baltimore;Women's Apparel;$ 55,00;350;$ 192.500;$ 57.750;30%;In-store
-Sports Direct;1185732;21/8/2021;Northeast;Maryland;Baltimore;Men's Street Footwear;$ 50,00;500;$ 250.000;$ 100.000;40%;In-store
+Sports Direct;1185732;21/8/2021;Northeast;Maryland;Baltimore;Men's Street Footwear;$ 50,00;;$ 250.000;$ 100.000;40%;In-store
 Sports Direct;1185732;21/8/2021;Northeast;Maryland;Baltimore;Men's Athletic Footwear;$ 45,00;275;$ 123.750;$ 43.313;35%;In-store
 Sports Direct;1185732;21/8/2021;Northeast;Maryland;Baltimore;Women's Street Footwear;$ 40,00;200;$ 80.000;$ 28.000;35%;In-store
-Sports Direct;1185732;21/8/2021;Northeast;Maryland;Baltimore;Women's Athletic Footwear;$ 40,00;150;$ 60.000;$ 21.000;35%;In-store
+Sports Direct;1185732;21/8/2021;Northeast;Maryland;Baltimore;Women's Athletic Footwear;$ 40,00;;$ 60.000;$ 21.000;35%;In-store
 Sports Direct;1185732;21/8/2021;Northeast;Maryland;Baltimore;Men's Apparel;$ 50,00;125;$ 62.500;$ 18.750;30%;In-store
 Sports Direct;1185732;21/8/2021;Northeast;Maryland;Baltimore;Women's Apparel;$ 55,00;300;$ 165.000;$ 49.500;30%;In-store
 Sports Direct;1185732;20/9/2021;Northeast;Maryland;Baltimore;Men's Street Footwear;$ 50,00;425;$ 212.500;$ 85.000;40%;In-store
@@ -3389,9 +3389,9 @@ Foot Locker;1185732;15/2/2021;Northeast;Delaware;Wilmington;Women's Apparel;$ 40
 Foot Locker;1185732;13/3/2021;Northeast;Delaware;Wilmington;Men's Street Footwear;$ 40,00;545;$ 218.000;$ 76.300;35%;In-store
 Foot Locker;1185732;13/3/2021;Northeast;Delaware;Wilmington;Men's Athletic Footwear;$ 40,00;250;$ 100.000;$ 35.000;35%;In-store
 Foot Locker;1185732;13/3/2021;Northeast;Delaware;Wilmington;Women's Street Footwear;$ 30,00;275;$ 82.500;$ 33.000;40%;In-store
-Foot Locker;1185732;13/3/2021;Northeast;Delaware;Wilmington;Women's Athletic Footwear;$ 35,00;125;$ 43.750;$ 17.500;40%;In-store
+Foot Locker;1185732;13/3/2021;Northeast;Delaware;Wilmington;Women's Athletic Footwear;$ 35,00;;$ 43.750;$ 17.500;40%;In-store
 Foot Locker;1185732;13/3/2021;Northeast;Delaware;Wilmington;Men's Apparel;$ 50,00;175;$ 87.500;$ 26.250;30%;In-store
-Foot Locker;1185732;13/3/2021;Northeast;Delaware;Wilmington;Women's Apparel;$ 40,00;275;$ 110.000;$ 44.000;40%;In-store
+Foot Locker;1185732;13/3/2021;Northeast;Delaware;Wilmington;Women's Apparel;$ 40,00;;$ 110.000;$ 44.000;40%;In-store
 Foot Locker;1185732;14/4/2021;Northeast;Delaware;Wilmington;Men's Street Footwear;$ 40,00;525;$ 210.000;$ 73.500;35%;In-store
 Foot Locker;1185732;14/4/2021;Northeast;Delaware;Wilmington;Men's Athletic Footwear;$ 40,00;225;$ 90.000;$ 31.500;35%;In-store
 Foot Locker;1185732;14/4/2021;Northeast;Delaware;Wilmington;Women's Street Footwear;$ 30,00;225;$ 67.500;$ 27.000;40%;In-store
@@ -3473,7 +3473,7 @@ Kohl's;1185732;7/4/2021;Northeast;New Jersey;Newark;Women's Apparel;$ 35,00;250;
 Kohl's;1185732;6/5/2021;Northeast;New Jersey;Newark;Men's Street Footwear;$ 50,00;520;$ 260.000;$ 91.000;35%;In-store
 Kohl's;1185732;6/5/2021;Northeast;New Jersey;Newark;Men's Athletic Footwear;$ 45,00;225;$ 101.250;$ 35.438;35%;In-store
 Kohl's;1185732;6/5/2021;Northeast;New Jersey;Newark;Women's Street Footwear;$ 40,00;250;$ 100.000;$ 40.000;40%;In-store
-Kohl's;1185732;6/5/2021;Northeast;New Jersey;Newark;Women's Athletic Footwear;$ 40,00;200;$ 80.000;$ 32.000;40%;In-store
+Kohl's;1185732;6/5/2021;Northeast;New Jersey;Newark;Women's Athletic Footwear;$ 40,00;;$ 80.000;$ 32.000;40%;In-store
 Kohl's;1185732;6/5/2021;Northeast;New Jersey;Newark;Men's Apparel;$ 50,00;225;$ 112.500;$ 33.750;30%;In-store
 Kohl's;1185732;6/5/2021;Northeast;New Jersey;Newark;Women's Apparel;$ 55,00;350;$ 192.500;$ 77.000;40%;In-store
 Kohl's;1185732;8/6/2021;Northeast;New Jersey;Newark;Men's Street Footwear;$ 50,00;600;$ 300.000;$ 105.000;35%;In-store
@@ -3527,13 +3527,13 @@ Sports Direct;1185732;7/1/2021;Northeast;New Jersey;Newark;Women's Apparel;$ 40,
 Sports Direct;1185732;5/2/2021;Northeast;New Jersey;Newark;Men's Street Footwear;$ 40,00;550;$ 220.000;$ 88.000;40%;In-store
 Sports Direct;1185732;5/2/2021;Northeast;New Jersey;Newark;Men's Athletic Footwear;$ 40,00;200;$ 80.000;$ 32.000;40%;In-store
 Sports Direct;1185732;5/2/2021;Northeast;New Jersey;Newark;Women's Street Footwear;$ 30,00;250;$ 75.000;$ 22.500;30%;In-store
-Sports Direct;1185732;5/2/2021;Northeast;Connecticut;Hartford;Women's Athletic Footwear;$ 35,00;125;$ 43.750;$ 13.125;30%;In-store
+Sports Direct;1185732;5/2/2021;Northeast;Connecticut;Hartford;Women's Athletic Footwear;$ 35,00;;$ 43.750;$ 13.125;30%;In-store
 Sports Direct;1185732;5/2/2021;Northeast;Connecticut;Hartford;Men's Apparel;$ 50,00;200;$ 100.000;$ 30.000;30%;In-store
 Sports Direct;1185732;5/2/2021;Northeast;Connecticut;Hartford;Women's Apparel;$ 40,00;300;$ 120.000;$ 42.000;35%;In-store
-Sports Direct;1185732;3/3/2021;Northeast;Connecticut;Hartford;Men's Street Footwear;$ 40,00;520;$ 208.000;$ 83.200;40%;In-store
+Sports Direct;1185732;3/3/2021;Northeast;Connecticut;Hartford;Men's Street Footwear;$ 40,00;;$ 208.000;$ 83.200;40%;In-store
 Sports Direct;1185732;3/3/2021;Northeast;Connecticut;Hartford;Men's Athletic Footwear;$ 40,00;225;$ 90.000;$ 36.000;40%;In-store
 Sports Direct;1185732;3/3/2021;Northeast;Connecticut;Hartford;Women's Street Footwear;$ 30,00;250;$ 75.000;$ 22.500;30%;In-store
-Sports Direct;1185732;3/3/2021;Northeast;Connecticut;Hartford;Women's Athletic Footwear;$ 35,00;100;$ 35.000;$ 10.500;30%;In-store
+Sports Direct;1185732;3/3/2021;Northeast;Connecticut;Hartford;Women's Athletic Footwear;$ 35,00;;$ 35.000;$ 10.500;30%;In-store
 Sports Direct;1185732;3/3/2021;Northeast;Connecticut;Hartford;Men's Apparel;$ 50,00;150;$ 75.000;$ 22.500;30%;In-store
 Sports Direct;1185732;3/3/2021;Northeast;Connecticut;Hartford;Women's Apparel;$ 40,00;250;$ 100.000;$ 35.000;35%;In-store
 Sports Direct;1185732;4/4/2021;Northeast;Connecticut;Hartford;Men's Street Footwear;$ 40,00;500;$ 200.000;$ 80.000;40%;In-store
