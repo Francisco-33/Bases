@@ -1,4 +1,4 @@
-Comercio;ID Comercio;Fecha de Ingreso;Region;Estado;Ciudad;Producto;Precio por Unidad;Unidades Vendidas;Ventas Totales;Ganancias Operativas;Margen Operativo;Metodo de Venta
+Comercio;ID Comercio;Fecha de Ingreso;Region;Estado;Ciudad;Producto;Precio por Unidad;Unidades Vendidas;Precio Final;Ganancias Operativas;Margen Operativo;Metodo de Venta
 Foot Locker;1185732;1/1/2020;Northeast;New York;New York;Men's Street Footwear;$ 50;1200;$ 600.000;$ 300.000;50%;In-store
 Foot Locker;1185732;2/1/2020;Northeast;New York;New York;Men's Athletic Footwear;$ 50;1000;$ 500.000;$ 150.000;30%;In-store
 Foot Locker;1185732;3/1/2020;Northeast;New York;New York;Women's Street Footwear;$ 40;1000;$ 400.000;$ 140.000;35%;In-store
