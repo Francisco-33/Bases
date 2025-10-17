@@ -1,4 +1,4 @@
-﻿Comercio;ID Comercio;Fecha de Ingreso;Región;Estado;Ciudad;Producto;Precio por Unidad;Unidades Vendidas;Precio Final;Ganancias;Margen Operativo;Metodo de venta;;;
+﻿Comercio;ID Comercio;Fecha de Ingreso;Región;Estado;Ciudad;Producto;Precio por Unidad;Unidades Vendidas;Precio Final;Ganancias;Margen Operativo;Metodo de Venta;;;
 Foot Locker;1185732;21/12/2022;Northeast;New York;New York;Men's Street Footwear;$50,00 ;1.200;$ 60.000;$30.000 ;50%;In-store;;;
 Foot Locker;1185732;12/5/2023;Northeast;New York;New York;Men's Athletic Footwear;$50,00 ;1.000;$ 50.000;$35.000 ;30%;In-store;;;
 Foot Locker;1185732;10/5/2020;Northeast;New York;New York;Women's Street Footwear;$40,00 ;1.000;$ 40.000;$26.000 ;35%;In-store;;;
@@ -9649,3 +9649,4 @@ Foot Locker;1185732;24/1/2024;Northeast;New Hampshire;Manchester;Men's Athletic 
 Foot Locker;1185732;18/11/2024;Northeast;New Hampshire;Manchester;Women's Street Footwear;$29,00 ;83;$ 2.407;$1.757 ;27%;Outlet;;;
 ;;;;;;;;;;;;;;;
 ;;;;;;;;;;;;;;;
+
